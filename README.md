@@ -46,4 +46,4 @@ The LED will **blink continuously**, staying **ON for 2 seconds** and **OFF for 
 
 ## 📌 Author
 👤 **Robotics Ragul**  
-🔗 GitHub: [github.com/your-username](https://github.com/roboticsragul)  
+🔗 GitHub: [github.com/your-roboticsragul](https://github.com/roboticsragul)  
