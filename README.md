@@ -27,8 +27,7 @@ void loop() {
   digitalWrite(12, LOW);  // Turn LED OFF
   delay(2000);            // Wait for 2 seconds
 }
-# LED Blinking with Arduino
-
+```
 ## 📜 Code Explanation
 - `pinMode(12, OUTPUT);` → Sets pin **12** as an output.
 - `digitalWrite(12, HIGH);` → Turns the LED **ON**.
@@ -47,4 +46,4 @@ The LED will **blink continuously**, staying **ON for 2 seconds** and **OFF for 
 
 ## 📌 Author
 👤 **Robotics Ragul**  
-🔗 GitHub: [github.com/your-username](https://github.com/your-username)  
+🔗 GitHub: [github.com/your-username](https://github.com/roboticsragul)  
